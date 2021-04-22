@@ -7,3 +7,4 @@ It's a spaider, which is downloading les's novels.
 | ------------ | ----------------- | -------- | -------- |
 | 轻之文库   | www.linovel.net    | ✅       |  ✅      |
 | POPO       | www.popo.tw | ✅       | ✅      |
+| 顶点小说       | www.booktxt.net |  ❌      | ❌      |
