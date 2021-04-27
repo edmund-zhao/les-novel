@@ -53,7 +53,7 @@ if __name__ == '__main__':
     threads = []
     start_time = time.time()
 
-    ### 以下是多进程
+    ### 以下是多线程
     '''
     for i in range(poolNum):
         th = threading.Thread(target=maxRun, args=(runList[i],i,))
