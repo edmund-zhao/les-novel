@@ -20,7 +20,7 @@ class MongoDBPipeline(object):
 
     # 打开数据库
     def open_spider(self, spider):
-        db_uri = spider.settings.get('MONGODB_URI', 'mongodb://admin:wlh4456579@157.230.240.51/')
+        db_uri = spider.settings.get('MONGODB_URI', 'URL') # 需要填入mongodb url 
         db_name = spider.settings.get('MONOGDB_DB_NAME', 'ilnovel')
 
         self.db_client = MongoClient(db_uri)
