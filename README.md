@@ -1,7 +1,7 @@
-# - Project Info
+#  Project Info
 It's a spaider, which is downloading les's novels.
 
-## - Site Info
+##  Site Info
 
 | 站点名称     | 网址              | 是否正版 | 插图下载
 | ------------ | ----------------- | -------- | -------- |
